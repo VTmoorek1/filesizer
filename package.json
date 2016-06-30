@@ -1,0 +1,23 @@
+{
+  "name": "filesizer",
+  "version": "1.0.0",
+  "description": "Upload a file and get it's size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VTmoorek1/filesizer.git"
+  },
+  "author": "KMM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VTmoorek1/filesizer/issues"
+  },
+  "homepage": "https://github.com/VTmoorek1/filesizer#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.1.0"
+  }
+}
